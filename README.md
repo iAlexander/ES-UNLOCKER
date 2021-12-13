@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg?style=flat)](#)
 [![Distribution](https://img.shields.io/badge/Use_for-Free-brightgreen.svg?style=flat)](http://iashchuk.com)
 
-[![ES-UNLOCKER - Okai ES200B Scooter](https://raw.githubusercontent.com/iAlexander/Homepok/master/Header.jpg)](http://iashchuk.com)
+//[![ES-UNLOCKER - Okai ES200B Scooter](https://raw.githubusercontent.com/iAlexander/Homepok/master/Header.jpg)](http://iashchuk.com)
 
 ## ES-UNLOCKER - Okai ES200B Scooter
 1. [Description](#description)
@@ -19,7 +19,7 @@ The main goal of the microcontroller application ```ES-UNLOCKER``` - is to help 
 
 ## <a name="pictures">Pictures:</a>
 
-[ES-UNLOCKER - Okai ES200B Scooter](http://kyivapp.com)
+IN PROGRESS... Give me some time for graphic details of wiring [ES-UNLOCKER - Okai ES200B Scooter](http://kyivapp.com)
 
 ## <a name="license">License:</a>
 
