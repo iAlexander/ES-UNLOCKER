@@ -1,5 +1,8 @@
 /*
-   -- Scooter Freedom --
+   -- ES-UNLOCKER - Okai ES200B Scooter --
+
+   ES-UNLOCKER is released under the MIT license. Check the ```LICENSE``` file for details.  
+Copyright © 2021-2022 <a href="http://iashchuk.com">Alexander Iashchuk</a>.
 
    This source code of graphical user interface
    has been generated automatically by RemoteXY editor.
@@ -8,11 +11,6 @@
    To connect using RemoteXY mobile app by link http://remotexy.com/en/download/
      - for ANDROID 4.3.1 or later version;
      - for iOS 1.3.5 or later version;
-
-   This source code is free software; you can redistribute it and/or
-   modify it under the terms of the GNU Lesser General Public
-   License as published by the Free Software Foundation; either
-   version 2.1 of the License, or (at your option) any later version.
 */
 
 //////////////////////////////////////////////
