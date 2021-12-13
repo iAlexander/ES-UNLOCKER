@@ -1,8 +1,9 @@
-[![Framework](https://img.shields.io/badge/Framework-Arduino-green.svg?style=flat)](#)
-[![Hardware](https://img.shields.io/badge/Micro-ESP8266_ESP32-lightgray.svg?style=flat)](#)
-[![Scooter](https://img.shields.io/badge/Scooter-OKAI_ES200B-orange.svg?style=flat)](#)
+[![Platform](https://img.shields.io/badge/-Arduino-green.svg?style=flat)](#)
 [![Version](https://img.shields.io/badge/Version-1.0.1-blue.svg?style=flat)](#)
-[![Distribution](https://img.shields.io/badge/Use_for-Free-brightgreen.svg?style=flat)](http://iashchuk.com)
+[![Scooter](https://img.shields.io/badge/Scooter-OKAI_ES200B-orange.svg?style=flat)](#)
+[![Board](https://img.shields.io/badge/WiFi-ESP8266_Board-violet.svg?style=flat)](#)
+[![Board](https://img.shields.io/badge/BLE-ESP32_Board-lightblue.svg?style=flat)](#)
+[![License](https://img.shields.io/badge/-Free_to_use-brightgreen.svg?style=flat)](http://iashchuk.com)
 
 ## [ES-UNLOCKER](http://iashchuk.com) - Okai ES200B Scooter
 1. [Description](#description)
@@ -12,8 +13,8 @@
 
 ## <a name="description">Description:</a>
 
-The main goal of the microcontroller application ```ES-UNLOCKER``` - is to help people use their scooters. This is a production version of the ESP32 Scooter Unlocker. IT has options to control the headlight and even cause it to flash. I hope everyone enjoys! (region of Ukraine where the car was registered), based on the automobile plates that are on the car. The application is full of precise vector graphic pictures, like Coat of Arms of each region of Ukraine.
-#### Use your scooter as you want!
+The main goal of the microcontroller application ```ES-UNLOCKER``` - is to help people use their scooters. This is a production version of the ESP 32/8266 Scooter Unlocker. IT has options to control the headlight and even cause it to flash.
+I hope everyone enjoys this handcrafted technical solution!
 
 ## <a name="pictures">Pictures:</a>
 
