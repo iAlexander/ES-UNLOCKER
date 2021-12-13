@@ -11,16 +11,13 @@ So the first step is to hook up a Buck convertor to the Red (VIN) and black wire
 Next connect the yellow TX of the tracker to the Arduino's RX pin. Now connect the Blue (BTN) wire to pin number 5 on the arduino or more simply to the Arduino 3.3v out. Last upload the included arduino .ino file to the nano and away you go. 
 
 If you cant get a hold of buck convertor right away its OK to connect the arduino to a USB battery. That will do the trick.
+#### Use your scooter as you want!
 
-## <a name="contact">Contact:</a>
+## <a name="pictures">Pictures:</a>
 
-You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
-If you find any issues on the project, you can open a ticket.  
-Pull requests are also welcome!
+IN PROGRESS... Give me some time for graphic details of wiring [ES-UNLOCKER - Okai ES200B Scooter](http://kyivapp.com)
 
-Don't forget to check the good jobe done by - [Mr. Spriggs on HACKADAY.IO](https://hackaday.io/project/168667-es-200-electric-scooter-unlocker).
-
-## <a name="russian">For dummies:</a>
+## <a name="russian">For dickheads:</a>
 
 ЧЕРНЫЙ - GND (земля).
 КРАСНЫЙ - VIN (питание) +42v.
@@ -29,3 +26,21 @@ Don't forget to check the good jobe done by - [Mr. Spriggs on HACKADAY.IO](https
 ЗЕЛЕНЫЙ - RX порт, подключить не обязательно, через него можно получать данные с контроллера.
 
 ПОДКЛЮЧАЕМ: Желтый к пину RX на Arduino Nano. Синий к пину D5 на Arduino Nano. Загружаем .ino файл и радуемся!
+
+
+## <a name="license">License:</a>
+
+```ES-STARTER``` is released under the MIT license. Check the ```LICENSE``` file for details.  
+Copyright © 2021-2022 <a href="http://iashchuk.com">Alexander Iashchuk</a>.
+
+## <a name="thanks">Thanks to:</a>
+
+Don't forget to check the good jobe done by - [Mr. Spriggs on HACKADAY.IO](https://hackaday.io/project/168667-es-200-electric-scooter-unlocker).
+
+## <a name="contact">Contact:</a>
+
+You can read, follow or drop me a line on my personal Twitter account - [@iAlexander13](https://twitter.com/iAlexander13).  
+If you find any issues on the project, you can open a ticket.  
+Pull requests are also welcome!
+
+[![iAlexander - Нотатки громадянина України](https://raw.githubusercontent.com/iAlexander/Homepok/master/Footer.jpg)](https://twitter.com/iAlexander13)
