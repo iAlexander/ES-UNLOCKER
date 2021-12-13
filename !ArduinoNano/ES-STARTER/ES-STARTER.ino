@@ -1,4 +1,10 @@
-// ES-UNLOCKER - Okai ES200B Scooter (Arduino Nano Version)
+// ES-STARTER - Okai ES200B Scooter (Arduino Nano Version)
+
+/*
+   -- Simple version of ES-UNLOCKER --
+   ES-UNLOCKER is released under the MIT license. Check the LICENSE file for details.
+   Copyright © 2021 <a href="http://iashchuk.com">Alexander Iashchuk</a>.
+*/
 
 void setup() {
 
@@ -8,7 +14,7 @@ void setup() {
   // initialize Serial:
   Serial.begin(9600);
   delay(500);
-  Serial.println("Starting the UNLOCK procedure...");
+  Serial.println("Starting the STARTER UNLOCK procedure...");
   delay(500);
   Serial.write(0xA6);
   Serial.write(0x12);
