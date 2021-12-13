@@ -19,7 +19,7 @@ The main goal of the microcontroller application ```ES-UNLOCKER``` - is to help 
 
 ## <a name="pictures">Pictures:</a>
 
-[![ES-UNLOCKER - Okai ES200B Scooter](https://raw.githubusercontent.com/iAlexander/Homepok/master/Screenshots.jpg)](http://kyivapp.com)
+[ES-UNLOCKER - Okai ES200B Scooter](http://kyivapp.com)
 
 ## <a name="license">License:</a>
 
