@@ -1,4 +1,4 @@
-## ES-UNLOCKER - Okai ES200B Scooter (Arduino Nano Version)
+## [ES-UNLOCKER](http://iashchuk.com) - Okai ES200B Scooter (Arduino Nano Version)
 
 How to connect an Arduino Nano to the ES-200B
 
@@ -19,3 +19,13 @@ If you find any issues on the project, you can open a ticket.
 Pull requests are also welcome!
 
 Don't forget to check the good jobe done by - [Mr. Spriggs on HACKADAY.IO](https://hackaday.io/project/168667-es-200-electric-scooter-unlocker).
+
+## <a name="russian">For dummies:</a>
+
+ЧЕРНЫЙ - GND (земля).
+КРАСНЫЙ - VIN (питание) +42v.
+СИНИЙ (м.б. ЖЕЛТЫЙ) - Кнопка Пуск, надо подключить на контакт +3.3v.
+ЖЕЛТЫЙ (м.б. СИНИЙ) - TX порт (получатель сигнала), надо подключить к порту RX (источник сигнала) на Arduino Nano.
+ЗЕЛЕНЫЙ - RX порт, подключить не обязательно, через него можно получать данные с контроллера.
+
+ПОДКЛЮЧАЕМ: Желтый к пину RX на Arduino Nano. Синий к пину D5 на Arduino Nano. Загружаем .ino файл и радуемся!
